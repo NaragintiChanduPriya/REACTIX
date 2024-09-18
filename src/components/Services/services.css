@@ -1,0 +1,19 @@
+.services{
+    @apply text-black bg-white w-full px-5 py-[10rem] mx-auto grid  md:grid-cols-3 gap-10;
+}
+.single,.double,.triple{
+    @apply w-full text-center border border-t-0 gap-5 shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300;
+}
+.service-img{
+ @apply w-20 mx-auto mt-[-3rem] bg-white;
+}
+.service-text{
+    @apply border-b border-solid border-b-gray-100 font-medium py-2 mx-8;
+
+}
+.user-text{
+    @apply text-2xl font-bold text-center py-2
+}
+.amount{
+    @apply text-4xl font-bold;
+}

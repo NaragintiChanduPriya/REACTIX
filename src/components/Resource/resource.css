@@ -1,0 +1,10 @@
+.resource{
+    @apply  py-10 flex items-center text-center h-fit text-white lg:justify-around w-full lg:h-60 lg:flex-row flex-col  ;
+}
+.resource-head{
+    @apply font-bold text-4xl py-3 lg:py-0;
+}
+.input{
+
+    @apply bg-white md:mr-2 py-3 px-12 rounded-sm text-black  font-semibold w-[100%] sm:w-[100%] mb-6 lg:mb-0  block  lg:w-[45%] md:inline outline-none;
+}

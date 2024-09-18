@@ -1,0 +1,15 @@
+.hero{
+    @apply  pt-24 max-w-[850px] w-full h-screen mx-auto text-center flex flex-col items-center justify-center;
+}
+.stylyingp{
+   @apply md:text-5xl sm:text-4xl text-xl font-semibold;
+}
+.main-text{
+    @apply md:text-7xl sm:text-6xl text-4xl md:py-6 font-bold pb-5;
+}
+.sub-text{
+   @apply md:text-2xl text-xl font-bold text-gray-500 py-5;
+}
+.btn{
+    @apply bg-[#00df9a] py-3 px-12 rounded-sm text-black  font-semibold;
+}
