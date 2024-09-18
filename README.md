@@ -18,11 +18,11 @@ To set up this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NaragintiChanduPriya/ReactIX.git
+   git clone https://github.com/NaragintiChanduPriya/ReactIXPRO.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ReactIX
+   cd ReactIXPRO
    ```
 3. Install dependencies:
    ```bash
